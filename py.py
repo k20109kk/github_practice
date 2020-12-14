@@ -7,8 +7,8 @@ class math:
         print(self.num1 * self.num2)
     def add(self):
         print(self.num1 + self.num2)
-    def sub(self):
-        print(self.num1 - self.num2)
+def sub(self):
+    print(self.num1 - self.num2)
 answer = math(5,2)
 answer.mul()
 answer.add()
