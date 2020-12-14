@@ -1,2 +1,2 @@
 import py
-py.sub()
+py.sub(5,2)
