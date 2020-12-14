@@ -9,7 +9,6 @@ class math:
         print(self.num1 + self.num2)
 def sub(a,b):
     print(a - b)
-    return sub
 answer = math(5,2)
 answer.mul()
 answer.add()
