@@ -1,2 +1,2 @@
 import py
-py.init()
+py.sub()
